@@ -4,7 +4,7 @@
 
 ```javascript
 function temHabilidade(skills) {
-	//código aqui
+	// código aqui
 }
 var skills = ["Javascript", "ReactJS", "React Native"];
 temHabilidade(skills); // true ou false
