@@ -10,4 +10,4 @@ var skills = ["Javascript", "ReactJS", "React Native"];
 temHabilidade(skills); // true ou false
 ```
 
-Dica: para verificar se um vetor contém um valor, utilize o método [indexOf](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf "Array.prototype.indexOf()").
+*Dica: para verificar se um vetor contém um valor, utilize o método [indexOf](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf "Array.prototype.indexOf()").*
