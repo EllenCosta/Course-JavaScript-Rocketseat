@@ -6,3 +6,5 @@
 #### Módulo :one: → Introdução JavaScript
 ---
 #### Módulo :two: → Manipulando a DOM
+---
+#### Módulo :three: → App de TODOS
