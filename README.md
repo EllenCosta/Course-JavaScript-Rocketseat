@@ -5,4 +5,4 @@
 ---
 #### Módulo :one: → Introdução JavaScript
 ---
-#### Múdlo :two: → Manipulando a DOM
+#### Módulo :two: → Manipulando a DOM
