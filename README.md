@@ -8,3 +8,5 @@
 #### [Módulo :two:](https://github.com/EllenCosta/Course-JavaScript-Rocketseat/tree/master/Modulo2) → Manipulando a DOM
 ---
 #### [Módulo :three:](https://github.com/EllenCosta/Course-JavaScript-Rocketseat/tree/master/Modulo3) → App de TODOS
+---
+#### [Módulo :four:](https://github.com/EllenCosta/Course-JavaScript-Rocketseat/tree/master/Modulo4) → JS Assíncrono
